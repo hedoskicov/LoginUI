@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#131EEA</color>
+    <color name="colorPrimaryDark">#131EEA</color>
+    <color name="colorAccent">#F13413</color>
+    <color name="colorLayerDark">#D6000000</color>
+    <color name="colorLayerSemiDark">#1B1A1A</color>
+    <color name="colorWhite">#FFFFFFFF</color>
+    <color name="colorTextPrimary">#4B4B4C</color>
+    <color name="colorTextHint">#808080</color>
+    <color name="litePink">#D283D5</color>
+    <color name="litePinkForBorder">#EFC1F1</color>
+    <color name="purple">#973E9A</color>
+
+
+
+</resources>
